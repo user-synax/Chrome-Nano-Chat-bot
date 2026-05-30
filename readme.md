@@ -4,6 +4,9 @@ A lightweight chat application built using Chrome's Built-in AI APIs.
 
 This project demonstrates how to use the LanguageModel API directly in the browser without requiring external AI providers, API keys, backend servers, or cloud inference.
 
+# Check live 👇
+## https://chrome-nano-chat-bot.netlify.app
+
 ## Features
 
 - Chrome Built-in AI (LanguageModel API)
